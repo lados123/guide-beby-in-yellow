@@ -1,0 +1,135 @@
+# guide-beby-in-yellow
+
+{
+	
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  
+  "ironsource_app_key": "10418ab31",
+  "ironsource_banner": "DefaultBanner",
+  "ironsource_interstitial": "DefaultInterstitial",
+  "ironsource_rewarded": "DefaultRewardedVideo",
+  
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+ 
+  "applovin_banner": "13482be8f771efc7",
+  "applovin_interstitial": "37c0fd7e2939a3be",
+  "applovin_native": "76d87171404718ed",
+  "applovin_rewarded": "6405227d47f8fe55",
+  
+  "unity_interstitial": "Interstitial_Android",
+  "unity_banner": "Banner_Android",
+  "unity_rewarded": "Rewarded_Android",
+  "unity_app_id": "4305873",
+  "is_unity_test_mode": true,
+  
+
+  "Interstitial_1": "unity",
+  "Banner_1": "unity",
+  "Native_1": "admob",
+  
+  "Interstitial_2": "unity",
+  "Banner_2": "unity",
+  "Native_2": "applovin",
+  
+  "Banner_3": "unity",
+  "Native_3": "facebook",
+  
+  "Rewarded": "unity",
+  
+  
+  "onesignal_id": "6e3bc9fd-c2c0-4737-9768-22134308b1bb",
+  
+  "inter_show_rate": 2,
+  "native_position_rate": 2,
+  
+  "show_rating_exit_dialog": true,
+  
+  "show_rating_dialog": true,
+  "rating_dialog_show_rate": 3,
+  
+  "show_custom_ad_dialog": true,
+  "show_custom_ad_image": true,
+  "custom_ad_image": "https://archive.org/download/image_20220504/image.png",
+  "custom_ad_text": "title",
+  "custom_ad_button_text": "click",
+  "custom_ad_url": "https://archive.org/download/image_20220504/image.png",
+  "custom_ad_show_rate": 2,
+  
+  "is_app_suspended": false,
+  "update_title": "A new update for this app is available.",
+  "update_message": "Update this app because this version has some issues.",
+  "update_URL": "xxxx",
+
+
+  "items": [
+	{
+	 "image": "https://archive.org/download/image_20220504/image.png",
+	 "title": "How do I organize a paragraph? 🤔",
+	 "text": "There are many different ways to organize a paragraph. The organization you choose will depend on the controlling idea of the paragraph. <b>Below are a few possibilities for organization, with links to brief examples:</b>",
+	 "text_2": "<b>Narration:</b> Tell a story. Go chronologically, from start to finish.<br><b>Description:</b> Provide specific details about what something looks, smells, tastes, sounds, or feels like. Organize spatially, in order of appearance, or by topic.<br><b>Process:</b> Explain how something works, step by step. Perhaps follow a sequence—first, second, third.<br><b>Classification:</b> Give examples and explain how those examples support your point.<br>",
+
+	 "isLocked": false,
+	 "id": 1,
+
+	 "show_custom_button": false,
+	 "custom_button_text": "click here",
+	 "custom_button_URL": "xxxx"
+	},
+	{
+	 "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1rYZgWAQqvvK6iYDKp9tYGlemoNiNTkiPPIWk3h7iJrcFFQDT",
+	 "title": "How to game beby in yellow ?",
+	 "text": "After quitting our jobs a few months ago, going full-time indie and working a lot of late nights,  we've finally released the biggest update to The Baby in Yellow so far.",
+	 "text_2": "The original version was always very limited because of it’s gamejam origins, so we wanted to really make an effort to push the boat out and explore some new territory with our spooky baby game. ",
+
+	 "isLocked": true,
+	 "id": 2,
+	 
+	 "show_custom_button": true,
+	 "custom_button_text": "Learn More",
+	 "custom_button_URL": "https://writingcenter.unc.edu/tips-and-tools/paragraphs/"
+	},
+	{
+	 "image": "https://archive.org/download/image_20220504/image.png",
+	 "title": "Illustration paragraph:",
+	 "text": "From the list above, let’s choose “illustration” as our rhetorical purpose. We’ll walk through a 5-step process for building a paragraph that illustrates a point in an argument.",
+	 "text_2": "For each step there is an explanation and example. Our example paragraph will be about human misconceptions of piranhas.",
+
+	 "isLocked": false,
+	 "id": 3,
+
+	 "show_custom_button": false,
+	 "custom_button_text": "click here",
+	 "custom_button_URL": "xxxx"
+	},
+	{
+	 "image": "https://archive.org/download/image_20220504/image.png",
+	 "title": "Explain the example(s)",
+	 "text": "Continue the pattern of giving examples and explaining them until all points/examples that the writer deems necessary have been made and explained.",
+	 "text_2": "NONE of your examples should be left unexplained. You might be able to explain the relationship between the example and the topic sentence in the same sentence which introduced the example.",
+
+	 "isLocked": true,
+	 "id": 4,
+
+	 "show_custom_button": false,
+	 "custom_button_text": "click here",
+	 "custom_button_URL": "xxxx"
+	},
+	{
+	 "image": "https://archive.org/download/image_20220504/image.png",
+	 "title": "Thank You 🥰",
+	 "text": "Thank you for using this app.",
+	 "text_2": ":)",
+
+	 "isLocked": false,
+	 "id": 5,
+
+	 "show_custom_button": false,
+	 "custom_button_text": "click here",
+	 "custom_button_URL": "xxxx"
+	}

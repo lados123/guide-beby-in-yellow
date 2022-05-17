@@ -1,1 +1,0 @@
-# guide-beby-in-yellow
